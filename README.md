@@ -1,5 +1,5 @@
 <div style='background-color:#21193c; padding:20px' align="center">
-    <img alt="Hacktober" src="https://hacktoberfest.digitalocean.com/assets/og-hf20-cf92d1a3bfc78883ea79dbac1518f1a4f1585e23eb69337ea730447cb70fa777.png" width="300" />
+    <img alt="Hacktober" src="https://hacktoberfest.digitalocean.com/assets/og-hf20-cf92d1a3bfc78883ea79dbac1518f1a4f1585e23eb69337ea730447cb70fa777.png" width="600" />
 </div>
 <br>
 
@@ -60,6 +60,8 @@ git push origin <branch-name>
 7. Create Pull-Request to `master` branch in this repository, read [how creating PR](https://help.github.com/articles/creating-a-pull-request/)
 
 8. Have fun and welcome to open source world.
+
+## 
 
 Looking forward to your PRs!!!
 
