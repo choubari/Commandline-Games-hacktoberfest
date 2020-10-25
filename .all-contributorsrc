@@ -16,6 +16,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "kmmelcher",
+      "name": "kmmelcher",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20446656?v=4",
+      "profile": "https://github.com/kmmelcher",
+      "contributions": [
+        "code",
+        "content",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
