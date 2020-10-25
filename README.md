@@ -86,7 +86,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Azrood"><img src="https://avatars3.githubusercontent.com/u/53349565?v=4" width="100px;" alt=""/><br /><sub><b>Azrood</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=Azrood" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/walidAITLHAJ"><img src="https://avatars3.githubusercontent.com/u/42065157?v=4" width="100px;" alt=""/><br /><sub><b>walidAITLHAJ</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=walidAITLHAJ" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/kmmelcher"><img src="https://avatars3.githubusercontent.com/u/20446656?v=4" width="100px;" alt=""/><br /><sub><b>kmmelcher</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=kmmelcher" title="Code">💻</a> <a href="#content-kmmelcher" title="Content">🖋</a> <a href="#ideas-kmmelcher" title="Ideas, Planning, & Feedback">🤔</a></td>     
- </tr>
+   <td align="center"><a href="https://github.com/Pelvis-Fresley"><img src="https://avatars0.githubusercontent.com/u/65600934?v=4" width="100px;" alt=""/><br /><sub><b>Pelvis-Fresley</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=Pelvis-Fresley" title="Code">💻</a></td>
+
+
+  </tr>
+ 
 </table>
 
 <!-- markdownlint-enable -->
