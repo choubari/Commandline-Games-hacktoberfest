@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "choubari",
+      "name": "Kawtar CHOUBARI",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/56233818?v=4",
+      "profile": "https://www.linkedin.com/in/kawtar-choubari-2226b0150/",
+      "contributions": [
+        "doc",
+        "review",
+        "content",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Commandline-Games-hacktoberfest",
+  "projectOwner": "choubari",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
