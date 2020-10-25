@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -88,6 +88,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/kmmelcher"><img src="https://avatars3.githubusercontent.com/u/20446656?v=4" width="100px;" alt=""/><br /><sub><b>kmmelcher</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=kmmelcher" title="Code">💻</a> <a href="#content-kmmelcher" title="Content">🖋</a> <a href="#ideas-kmmelcher" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/walidAITLHAJ"><img src="https://avatars3.githubusercontent.com/u/42065157?v=4" width="100px;" alt=""/><br /><sub><b>walidAITLHAJ</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=walidAITLHAJ" title="Code">💻</a></td>
     <td align="center"><a href="https://aquicasual.me"><img src="https://avatars0.githubusercontent.com/u/4775012?v=4" width="100px;" alt=""/><br /><sub><b>Samuel Loza</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=starsaminf" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/fragalcer"><img src="https://avatars2.githubusercontent.com/u/31025299?v=4" width="100px;" alt=""/><br /><sub><b>Francisco Gallardo</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=fragalcer" title="Code">💻</a></td>
   </tr>
 </table>
 
