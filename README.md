@@ -12,7 +12,6 @@
 <p align="center">
 <img src="https://img.shields.io/github/license/choubari/Commandline-Games-hacktoberfest"/>
 <img src="https://img.shields.io/github/forks/choubari/Commandline-Games-hacktoberfest"/>
-<img src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square"/>    
 <img src="https://img.shields.io/github/last-commit/choubari/Commandline-Games-hacktoberfest"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99"/>  
 </p>
