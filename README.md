@@ -1,6 +1,6 @@
 <div style='background-color:#21193c; padding:20px' align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
     <img alt="Hacktober" src="https://hacktoberfest.digitalocean.com/assets/og-hf20-cf92d1a3bfc78883ea79dbac1518f1a4f1585e23eb69337ea730447cb70fa777.png" width="600" />
 </div>
@@ -80,6 +80,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/kawtar-choubari-2226b0150/"><img src="https://avatars3.githubusercontent.com/u/56233818?v=4" width="100px;" alt=""/><br /><sub><b>Kawtar CHOUBARI</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=choubari" title="Documentation">📖</a> <a href="https://github.com/choubari/Commandline-Games-hacktoberfest/pulls?q=is%3Apr+reviewed-by%3Achoubari" title="Reviewed Pull Requests">👀</a> <a href="#content-choubari" title="Content">🖋</a> <a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=choubari" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/fragalcer"><img src="https://avatars2.githubusercontent.com/u/31025299?v=4" width="100px;" alt=""/><br /><sub><b>Francisco Gallardo</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=fragalcer" title="Code">💻</a></td>
   </tr>
 </table>
 
