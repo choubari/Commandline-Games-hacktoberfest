@@ -1,5 +1,8 @@
 # Author: André Fonteles
 
+# This game does not run on windows due to the lack of 
+# support for the curses library
+
 import atexit
 import random
 import curses
