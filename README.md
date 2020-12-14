@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -91,6 +91,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/musquitinh0"><img src="https://avatars0.githubusercontent.com/u/71075861?v=4" width="100px;" alt=""/><br /><sub><b>musquitinh0</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=musquitinh0" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Andre-Fonteles"><img src="https://avatars1.githubusercontent.com/u/4925266?v=4" width="100px;" alt=""/><br /><sub><b>Andre-Fonteles</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=Andre-Fonteles" title="Code">💻</a></td>
   </tr>
 </table>
 
