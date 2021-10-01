@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -81,22 +81,24 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/kawtar-choubari-2226b0150/"><img src="https://avatars3.githubusercontent.com/u/56233818?v=4" width="100px;" alt=""/><br /><sub><b>Kawtar CHOUBARI</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=choubari" title="Documentation">📖</a> <a href="https://github.com/choubari/Commandline-Games-hacktoberfest/pulls?q=is%3Apr+reviewed-by%3Achoubari" title="Reviewed Pull Requests">👀</a> <a href="#content-choubari" title="Content">🖋</a> <a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=choubari" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Pelvis-Fresley"><img src="https://avatars0.githubusercontent.com/u/65600934?v=4" width="100px;" alt=""/><br /><sub><b>Pelvis-Fresley</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=Pelvis-Fresley" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Azrood"><img src="https://avatars3.githubusercontent.com/u/53349565?v=4" width="100px;" alt=""/><br /><sub><b>Azrood</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=Azrood" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/kmmelcher"><img src="https://avatars3.githubusercontent.com/u/20446656?v=4" width="100px;" alt=""/><br /><sub><b>kmmelcher</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=kmmelcher" title="Code">💻</a> <a href="#content-kmmelcher" title="Content">🖋</a> <a href="#ideas-kmmelcher" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/walidAITLHAJ"><img src="https://avatars3.githubusercontent.com/u/42065157?v=4" width="100px;" alt=""/><br /><sub><b>walidAITLHAJ</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=walidAITLHAJ" title="Code">💻</a></td>
-    <td align="center"><a href="https://aquicasual.me"><img src="https://avatars0.githubusercontent.com/u/4775012?v=4" width="100px;" alt=""/><br /><sub><b>Samuel Loza</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=starsaminf" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/fragalcer"><img src="https://avatars2.githubusercontent.com/u/31025299?v=4" width="100px;" alt=""/><br /><sub><b>Francisco Gallardo</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=fragalcer" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/kawtar-choubari-2226b0150/"><img src="https://avatars3.githubusercontent.com/u/56233818?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kawtar CHOUBARI</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=choubari" title="Documentation">📖</a> <a href="https://github.com/choubari/Commandline-Games-hacktoberfest/pulls?q=is%3Apr+reviewed-by%3Achoubari" title="Reviewed Pull Requests">👀</a> <a href="#content-choubari" title="Content">🖋</a> <a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=choubari" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Pelvis-Fresley"><img src="https://avatars0.githubusercontent.com/u/65600934?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pelvis-Fresley</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=Pelvis-Fresley" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Azrood"><img src="https://avatars3.githubusercontent.com/u/53349565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Azrood</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=Azrood" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/kmmelcher"><img src="https://avatars3.githubusercontent.com/u/20446656?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kmmelcher</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=kmmelcher" title="Code">💻</a> <a href="#content-kmmelcher" title="Content">🖋</a> <a href="#ideas-kmmelcher" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/walidAITLHAJ"><img src="https://avatars3.githubusercontent.com/u/42065157?v=4?s=100" width="100px;" alt=""/><br /><sub><b>walidAITLHAJ</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=walidAITLHAJ" title="Code">💻</a></td>
+    <td align="center"><a href="https://aquicasual.me"><img src="https://avatars0.githubusercontent.com/u/4775012?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Samuel Loza</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=starsaminf" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/fragalcer"><img src="https://avatars2.githubusercontent.com/u/31025299?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Francisco Gallardo</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=fragalcer" title="Code">💻</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/musquitinh0"><img src="https://avatars0.githubusercontent.com/u/71075861?v=4" width="100px;" alt=""/><br /><sub><b>musquitinh0</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=musquitinh0" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Andre-Fonteles"><img src="https://avatars1.githubusercontent.com/u/4925266?v=4" width="100px;" alt=""/><br /><sub><b>Andre-Fonteles</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=Andre-Fonteles" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/musquitinh0"><img src="https://avatars0.githubusercontent.com/u/71075861?v=4?s=100" width="100px;" alt=""/><br /><sub><b>musquitinh0</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=musquitinh0" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Andre-Fonteles"><img src="https://avatars1.githubusercontent.com/u/4925266?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andre-Fonteles</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=Andre-Fonteles" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/clem0811"><img src="https://avatars.githubusercontent.com/u/91759054?v=4?s=100" width="100px;" alt=""/><br /><sub><b>clem0811</b></sub></a><br /><a href="https://github.com/choubari/Commandline-Games-hacktoberfest/commits?author=clem0811" title="Code">💻</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
