@@ -5,7 +5,7 @@
 
 
 <div style='background-color:#21193c; padding:20px' align="center">
-    <img alt="Hacktober" src="https://hacktoberfest.digitalocean.com/assets/og-hf20-cf92d1a3bfc78883ea79dbac1518f1a4f1585e23eb69337ea730447cb70fa777.png" width="600" />
+    <img alt="Hacktober" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="600" />
 </div>
 <br>
 
