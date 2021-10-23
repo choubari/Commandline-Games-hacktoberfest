@@ -1,7 +1,7 @@
 package main
 
 /*
-this is the label for the board
+these are the labels for each hub of the board
 
 0,0 | 0,1 | 0,2
 ----+-----+----
@@ -11,8 +11,9 @@ this is the label for the board
 
 ! follow this labeling when you want to put your sign
 
-other wise change the code ;)
+otherwise you can always change the code for your liking ;)
 */
+
 import (
 	"bufio"
 	"fmt"
@@ -29,13 +30,14 @@ const (
 )
 
 type line [3]int8
-
 type grid [8]line
 
+// Cheking the line of the grid
 func (l *line) check() bool {
 	return l[0] != empty && l[0] == l[1] && l[1] == l[2]
 }
 
+// Checking the whole board
 func (g *grid) check() bool {
 	for _, line := range g {
 		if line.check() {
@@ -45,6 +47,7 @@ func (g *grid) check() bool {
 	return false
 }
 
+// Placing the Symbol in board
 func (g *grid) place(x, y, val int8) {
 	if g[x][y] != empty {
 		fmt.Println("Wa ziye m3ana")
@@ -62,6 +65,7 @@ func (g *grid) place(x, y, val int8) {
 	}
 }
 
+// this function transformt the user index to its symbol
 func nts(n int8) string {
 	if n == 1 {
 		return "X"
@@ -72,6 +76,8 @@ func nts(n int8) string {
 	}
 
 }
+
+// Simply showing the board each time
 func (g *grid) showg() {
 	fmt.Println(nts(g[0][0]), " | ", nts(g[0][1]), " | ", nts(g[0][2]))
 	fmt.Println("---+-----+---")
@@ -79,12 +85,13 @@ func (g *grid) showg() {
 	fmt.Println("---+-----+---")
 	fmt.Println(nts(g[2][0]), " | ", nts(g[2][1]), " | ", nts(g[2][2]))
 }
+
+// Starting the game
 func start(in io.Reader, out io.Writer) {
 	gb := &grid{}
 	scanner := bufio.NewScanner(in)
 	players := [2]string{"X", "O"}
 	var player int8 = -1
-
 	for {
 		gb.showg()
 		player = (player + 1) % 2
