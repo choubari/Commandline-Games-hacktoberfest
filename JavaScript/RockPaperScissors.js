@@ -13,11 +13,48 @@ console.log("Computer chose" + ` ${computerInput}`);
 const winner = declareWinner(userInput, computerInput);
 
 function declareWinner(userInput, computerInput) {
-  if (userInput === "rock" && computerInput === "paper") {
-    console.log("You lose! Rock beats Paper");
-  } else if (userInput === "scissors" && computerInput === "paper") {
-    console.log("You win! Scissors beats Paper");
-  } else {
-    console.log("You tie!");
+  switch (userInput) {
+    
+    case "rock":
+      switch (computerInput) {
+        case "paper":
+          console.log("You lose! Paper beats Rock");
+          break;
+        case "scissors":
+          console.log("You win! Rock beats Scissors");
+          break;
+        default:
+          console.log("You tie!");
+          break;
+      }
+      break;
+
+      case "paper":
+      switch (computerInput) {
+        case "rock":
+          console.log("You win! Paper beats Rock");
+          break;
+        case "scissors":
+          console.log("You lose! Scissors beats Paper");
+          break;
+        default:
+          console.log("You tie!");
+          break;
+      }
+      break;
+
+      case "scissors":
+      switch (computerInput) {
+        case "rock":
+          console.log("You lose! Rock beats Scissors");
+          break;
+        case "paper":
+          console.log("You win! Scissors beats Paper");
+          break;
+        default:
+          console.log("You tie!");
+          break;
+      }
+      break;
   }
 }
